@@ -9,7 +9,7 @@
     @endif
 
 
-    <h1>Users</h1>
+    <h3>Users</h3>
 
 
     <table class="table">

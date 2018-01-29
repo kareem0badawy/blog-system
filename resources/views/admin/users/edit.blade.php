@@ -6,7 +6,7 @@
 @section('content')
 
 
-    <h1>Edit User</h1>
+    <h3>Edit User</h3>
 
 
     <div class="row">
